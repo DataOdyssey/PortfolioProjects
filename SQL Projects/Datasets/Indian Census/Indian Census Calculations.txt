@@ -1,0 +1,38 @@
+Sex_ratio = Female_Population / Male_Population ............. 1
+
+Total_Population = Male_Population + Female_Population ............ 2
+
+Female_Population = Total_Population - Male_Population
+
+Sex_ratio = (Total_Population - Male_Population)/(Male_Population)
+
+Sex_ratio * Male_Population = (Total_Population - Male_Population)
+
+Total_Population = (Sex_ratio * Male_Population) + Male_Population
+
+Total_Population = Male_Population( Sex_ratio + 1)
+
+Male_Population = Total_Population / ( Sex_ratio + 1 )  ................. Males
+
+Female_Population = Total_Population - Male_Population .............from 1
+
+Female_Population = Total_Population - (Total_Population / ( Sex_ratio + 1 ))
+
+Female_Population = Total_Population( 1 - (1 / ( Sex_ratio + 1 )) .....................Females
+
+Female_Population = (Total_Population * Sex_ratio) / (Sex_ratio + 1)
+
+-------------------------------------------------------------------------------------------------
+
+Literacy_ratio = Total_literate people / population
+
+Total_literate_people = literacy_ratio * population
+
+Total_illiterate_people = (1 - literacy_ratio) * population
+
+----------------------------------------------------------------------------------------------------
+
+Population = previous census + growth * previous census population
+
+Previous census population= Population / (1 + growth)
+
