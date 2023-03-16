@@ -75,38 +75,38 @@ The program prepares me for a career as a Data Analyst / Analytics professional 
 
 # [Tableau Projects](https://github.com/DataOdyssey/PortfolioProjects/tree/main/Tableau%20Projects)
 
-## Proj#1 - [CO2 Em. per Capita](https://public.tableau.com/views/WorldBankCo2EmissionsDashboard/CO2Em_perCapita?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Proj#1 - [CO2 Em. per Capita](https://public.tableau.com/views/WorldBankCo2EmissionsDashboard/CO2Em_perCapita?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![CO2 Em  per Capita](https://user-images.githubusercontent.com/117662651/225602028-3316d8ce-b181-4b3b-ba74-9a1254586d30.png)
 
-## Proj#2 - [COVID](https://public.tableau.com/views/COVIDDashboard_16703362022520/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Proj#2 - [COVID](https://public.tableau.com/views/COVIDDashboard_16703362022520/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![COVID](https://user-images.githubusercontent.com/117662651/225602302-91b5cc76-43c8-4966-b887-10ecf6aedec3.png)
 
-## Proj#3 - [Customer Dashboard](https://public.tableau.com/views/SalesSuperStoreDashboard_16788974031520/CustomerDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Proj#3 - [Customer Dashboard](https://public.tableau.com/views/SalesSuperStoreDashboard_16788974031520/CustomerDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![Customer Dashboard](https://user-images.githubusercontent.com/117662651/225602473-7e01f012-6f2a-4a77-8deb-d55083a17e13.png)
 
-## Proj#4 - [Discounts and Profits](https://public.tableau.com/views/SalesSuperStoreTableauStory/DiscountsandProfits?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Proj#4 - [Discounts and Profits](https://public.tableau.com/views/SalesSuperStoreTableauStory/DiscountsandProfits?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![Discounts and Profits](https://user-images.githubusercontent.com/117662651/225602563-8a7e2605-a07c-48b1-9c8e-ab7938a0e0e6.png)
 
-## Proj#5 - [E - Commerce Retail](https://public.tableau.com/views/E-CommerceSalesDashboard_16788968198970/ExploratoryVisualAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Proj#5 - [E - Commerce Retail](https://public.tableau.com/views/E-CommerceSalesDashboard_16788968198970/ExploratoryVisualAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![E - Commerce Retail](https://user-images.githubusercontent.com/117662651/225602615-8f1e2974-223b-49f7-a523-b7f641d29a58.png)
 
-## Proj#6 - [IMDb Movie Dashboard](https://public.tableau.com/views/IMDbMovieDashboard_16788966488220/IMDbMovieDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Proj#6 - [IMDb Movie Dashboard](https://public.tableau.com/views/IMDbMovieDashboard_16788966488220/IMDbMovieDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![IMDb Movie Dashboard](https://user-images.githubusercontent.com/117662651/225602742-2547403a-c9f8-41d4-b2d6-ac9678c90a3b.png)
 
-## Proj#7 - [Instagram Clone Data Analysis Dashboard](https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard_16788971019850/InstagramCloneDataAnalysisDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Proj#7 - [Instagram Clone Data Analysis Dashboard](https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard_16788971019850/InstagramCloneDataAnalysisDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![Instagram Clone Data Analysis Dashboard](https://user-images.githubusercontent.com/117662651/225602853-eb8bcd82-4a25-4ad1-a099-52715eff35ef.png)
 
-## Proj#8 - [London Bus Safety]
+# Proj#8 - [London Bus Safety]
 (https://public.tableau.com/views/LondonBusSafetyDashboard_16788971421620/ChartsDashboard?:language=en-GB&:retry=yes&:display_count=n&:origin=viz_share_link)
 ![London Bus Safety](https://user-images.githubusercontent.com/117662651/225602929-b490ec59-54aa-434c-9b5a-b5112ec4d262.png)
 
-## Proj#9 - [Municipality](https://public.tableau.com/views/MunicipalityDataAnalysisDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Proj#9 - [Municipality](https://public.tableau.com/views/MunicipalityDataAnalysisDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![Municipality ](https://user-images.githubusercontent.com/117662651/225602992-e2355c47-bc0f-4023-b436-9ec3658a0956.png)
 
-## Proj#10 - [Retail Pricing Analytics](https://public.tableau.com/views/RetailPriceAnalyticsDashboard_16788972045110/RetailPricingAnalytics?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Proj#10 - [Retail Pricing Analytics](https://public.tableau.com/views/RetailPriceAnalyticsDashboard_16788972045110/RetailPricingAnalytics?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![Retail Pricing Analytics](https://user-images.githubusercontent.com/117662651/225603044-481d9910-885f-4bf0-81fc-32cc056ee2cf.png)
 
-## Proj#11 - [Sales Superstore - Deep Data Analysis](https://public.tableau.com/views/SalesSuperStoreDeepDataAnalysis_16788973730750/3QADashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+# Proj#11 - [Sales Superstore - Deep Data Analysis](https://public.tableau.com/views/SalesSuperStoreDeepDataAnalysis_16788973730750/3QADashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ![Sales Superstore - Deep Data Analysis](https://user-images.githubusercontent.com/117662651/225603134-6d31ed11-b67c-4a5a-9eed-78f39e8eb6b3.png)
 
 
