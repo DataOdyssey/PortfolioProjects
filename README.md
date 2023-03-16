@@ -50,10 +50,20 @@ The program prepares me for a career as a Data Analyst / Analytics professional 
 ### For the following Python Projects I selected a large real-world dataset from kaggle; Performed data preparation & cleaning using Pandas & Numpy; Performed exporatory analysis & visualization using Matplotlib & Seaborn; Ask & answer questions about the data in a Jupyter notebook; Summarized the inferences with a conclusion.
 
 ## Proj#1 - [Cars Dataset Data Wrangling & Exploration](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Python%20Projects/Cars%20Dataset.ipynb)
+![Carsdataset](https://user-images.githubusercontent.com/117662651/225621555-f2862337-4853-4867-a0a3-56a5a799c0a5.png)
+
 ## Proj#2 - [Twitter Data Wrangling](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Python%20Projects/Twitter%20-%20Data%20Wrangling.ipynb)
+![Twitter archive Data Wrangling](https://user-images.githubusercontent.com/117662651/225621731-224b02b2-cdd3-4f9c-aad7-cae51b8aa0d4.png)
+
+
 ## Proj#3 - [US Accidents Analysis](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Python%20Projects/US-Accidents-Analysis.ipynb)
+![US Accidents](https://user-images.githubusercontent.com/117662651/225621822-dacb1baf-0948-4ad8-883e-bcb167150a2e.png)
+
 ## Proj#4 - [Weather Dataset Analyis](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Python%20Projects/Weather%20Dataset%20-%20Data%20analysis%20with%20Python.ipynb)
+![Weather Dataset](https://user-images.githubusercontent.com/117662651/225622043-70970309-19b1-43e3-8ece-b6590bf985c2.png)
+
 ## Proj#5 - [tmdb Movies data exploration](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Python%20Projects/tmdb_movies_data.ipynb)
+![tmdb Movies](https://user-images.githubusercontent.com/117662651/225621668-3c5243e4-9032-4151-965f-ac7e89ac17f1.png)
 
 # [SQL Projects](https://github.com/DataOdyssey/PortfolioProjects/tree/main/SQL%20Projects)
 
@@ -76,6 +86,7 @@ The program prepares me for a career as a Data Analyst / Analytics professional 
 ### In the following Excel projects I have transformed or clean up a raw set of data on Excel. This will include using features like the trim formula, data types, removing duplicates, and more. Then, looked into descriptive statistics using the data analysis feature on Excel which give the important numbers like the average, min, max, quartiles etc. Analyzed the data using pivot tables. Finally, created reports using conditional formatting, xlookups, sumifs and more.
 
 ## Proj#1 - [Banknifty & Nifty Live Option Chain](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Banknifty%20_%20Nifty%20Live%20OptionChain.xlsx)
+
 ## Proj#2 - [Sales Performance Dashboard](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Excel%20-%20Sales%20Performance%20Dashboard.xlsx)
 ## Proj#3 - [Superstore Dashboard](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Superstore%20Dashboard.xlsx)
 ## Proj#4 - [Shipping Data Dashboard](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Excel%20-%20Pivot%20Tables%2C%20Pivot%20Chart%2C%20Slicers.xlsx)
