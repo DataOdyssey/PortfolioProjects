@@ -76,6 +76,8 @@ The program prepares me for a career as a Data Analyst / Analytics professional 
 # [Tableau Projects](https://github.com/DataOdyssey/PortfolioProjects/tree/main/Tableau%20Projects)
 
 ## Proj#1 - [CO2 Em. per Capita](https://public.tableau.com/views/WorldBankCo2EmissionsDashboard/CO2Em_perCapita?:language=en-GB&:display_count=n&:origin=viz_share_link)
+![CO2 Em  per Capita](https://user-images.githubusercontent.com/117662651/225602028-3316d8ce-b181-4b3b-ba74-9a1254586d30.png)
+
 ## Proj#2 - [COVID](https://public.tableau.com/views/COVIDDashboard_16703362022520/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ## Proj#3 - [Customer Dashboard](https://public.tableau.com/views/SalesSuperStoreDashboard_16788974031520/CustomerDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ## Proj#4 - [Discounts and Profits](https://public.tableau.com/views/SalesSuperStoreTableauStory/DiscountsandProfits?:language=en-GB&:display_count=n&:origin=viz_share_link)
