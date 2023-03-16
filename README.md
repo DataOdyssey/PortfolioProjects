@@ -72,3 +72,29 @@ The program prepares me for a career as a Data Analyst / Analytics professional 
 ## Proj#2 - [Sales Performance Dashboard](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Excel%20-%20Sales%20Performance%20Dashboard.xlsx)
 ## Proj#3 - [Superstore Dashboard](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Superstore%20Dashboard.xlsx)
 ## Proj#4 - [Shipping Data Dashboard](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Excel%20-%20Pivot%20Tables%2C%20Pivot%20Chart%2C%20Slicers.xlsx)
+
+# [Tableau Projects](https://github.com/DataOdyssey/PortfolioProjects/tree/main/Tableau%20Projects)
+
+## Proj#1 - [CO2 Em. per Capita](https://public.tableau.com/views/WorldBankCo2EmissionsDashboard/CO2Em_perCapita?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Proj#2 - [COVID](https://public.tableau.com/views/COVIDDashboard_16703362022520/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Proj#3 - [Customer Dashboard](https://public.tableau.com/views/SalesSuperStoreDashboard_16788974031520/CustomerDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Proj#4 - [Discounts and Profits](https://public.tableau.com/views/SalesSuperStoreTableauStory/DiscountsandProfits?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Proj#5 - [E - Commerce Retail](https://public.tableau.com/views/E-CommerceSalesDashboard_16788968198970/ExploratoryVisualAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Proj#6 - [IMDb Movie Dashboard](https://public.tableau.com/views/IMDbMovieDashboard_16788966488220/IMDbMovieDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Proj#7 - [Instagram Clone Data Analysis Dashboard](https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard_16788971019850/InstagramCloneDataAnalysisDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Proj#8 - [London Bus Safety](https://public.tableau.com/views/LondonBusSafetyDashboard_16788971421620/ChartsDashboard?:language=en-GB&:retry=yes&:display_count=n&:origin=viz_share_link)
+## Proj#9 - [Municipality](https://public.tableau.com/views/MunicipalityDataAnalysisDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Proj#10 - [Retail Pricing Analytics](https://public.tableau.com/views/RetailPriceAnalyticsDashboard_16788972045110/RetailPricingAnalytics?:language=en-GB&:display_count=n&:origin=viz_share_link)
+## Proj#11 - [Sales Superstore - Deep Data Analysis](https://public.tableau.com/views/SalesSuperStoreDeepDataAnalysis_16788973730750/3QADashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+
+
+
+
+
+
+
+
+
+
+
