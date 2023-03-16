@@ -1,4 +1,4 @@
-# Data Aanalyst Portfolio
+# Data Analyst Portfolio
 
 ## Introduction
 
@@ -86,10 +86,16 @@ The program prepares me for a career as a Data Analyst / Analytics professional 
 ### In the following Excel projects I have transformed or clean up a raw set of data on Excel. This will include using features like the trim formula, data types, removing duplicates, and more. Then, looked into descriptive statistics using the data analysis feature on Excel which give the important numbers like the average, min, max, quartiles etc. Analyzed the data using pivot tables. Finally, created reports using conditional formatting, xlookups, sumifs and more.
 
 ## Proj#1 - [Banknifty & Nifty Live Option Chain](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Banknifty%20_%20Nifty%20Live%20OptionChain.xlsx)
+![Live Intraday Option Chain Data](https://user-images.githubusercontent.com/117662651/225622207-f1ada0f3-7117-4ab4-930b-a7b1f8ce74ec.png)
 
 ## Proj#2 - [Sales Performance Dashboard](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Excel%20-%20Sales%20Performance%20Dashboard.xlsx)
+![Sales Performance Dashboard](https://user-images.githubusercontent.com/117662651/225622298-e5b14745-3d00-4745-832a-bf50d5d68fa6.PNG)
+
 ## Proj#3 - [Superstore Dashboard](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Superstore%20Dashboard.xlsx)
+![Shipping Data](https://user-images.githubusercontent.com/117662651/225622374-228de59c-ac0d-439a-818f-9324b793de35.png)
+
 ## Proj#4 - [Shipping Data Dashboard](https://github.com/DataOdyssey/PortfolioProjects/blob/main/Excel%20Projects/Excel%20-%20Pivot%20Tables%2C%20Pivot%20Chart%2C%20Slicers.xlsx)
+![Superstore Dashboard](https://user-images.githubusercontent.com/117662651/225622464-8ea02b3b-5300-4aac-beb0-7a284e021691.png)
 
 # [Tableau Projects](https://github.com/DataOdyssey/PortfolioProjects/tree/main/Tableau%20Projects)
 
