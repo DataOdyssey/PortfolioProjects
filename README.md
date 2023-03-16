@@ -10,7 +10,7 @@ In this repository, you will come across several folders and sub-folders that co
 
 In the following sections of this README, I will provide a short summary of my data journey and brief descriptions of the projects in each folder. Let’s get started!
 
-# About Me & My Data Journey
+## About Me & My Data Journey
 
 
 
@@ -35,7 +35,7 @@ The program prepares me for a career as a Data Analyst / Analytics professional 
 * SQL for Data Analysis
 * Data visualization to draw meaningful conclusions
 
-# Technical Skills utilized
+## Technical Skills utilized
 
 * Python
 * Data Analysis / Wrangling libraries ( Numpy, Pandas)
