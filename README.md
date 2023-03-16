@@ -60,9 +60,16 @@ The program prepares me for a career as a Data Analyst / Analytics professional 
 ### In the following SQL Projects I have perfromed some basic aggregation functions like counts, sums, minimums, maximums ; used statistical operations, joins, CTEs, views, subqueries & Temp tables ; Prepared data for visualization in Tableau
 
 ## Proj#1 - [COVID Data Exploration](https://github.com/DataOdyssey/PortfolioProjects/blob/main/SQL%20Projects/SQL%20PROJECT%201%20-%20COVID%20DATASET%20-%20DATA%20EXPLORATION%20WITH%20MSSQL.sql)
+![COVID](https://user-images.githubusercontent.com/117662651/225620977-314a791e-7d46-4365-9fab-6c9ce760becd.png)
+
 ## Proj#2 - [Indian Census](https://github.com/DataOdyssey/PortfolioProjects/blob/main/SQL%20Projects/SQL%20PROJECT%202-%20Indian%20Census.sql)
+![Indian Census](https://user-images.githubusercontent.com/117662651/225621130-610e8a9e-38d9-4a41-ac97-f10cc0d8d4ad.png)
+
 ## Proj#3 - [Musicstore Dataset](https://github.com/DataOdyssey/PortfolioProjects/blob/main/SQL%20Projects/SQL%20PROJECT%203-%20MUSICSTORE%20DATASET%20-%20DATA%20ANALYSIS%20WITH%20SQL.sql)
+![Music Store](https://user-images.githubusercontent.com/117662651/225621235-3416369b-fd6b-4485-a63d-e35f79f77e55.png)
+
 ## Proj#4 - [Nashville Housing](https://github.com/DataOdyssey/PortfolioProjects/blob/main/SQL%20Projects/SQL%20PROJECT%204%20-%20Nashville_Housing.sql)
+![Nashville Housing Data for Data Cleaning](https://user-images.githubusercontent.com/117662651/225621311-b704c534-01de-4670-b2d0-580614a6c50d.png)
 
 # [Excel Projects](https://github.com/DataOdyssey/PortfolioProjects/tree/main/Excel%20Projects)
 
